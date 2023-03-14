@@ -1,13 +1,13 @@
 ### Hello, World! 🖖
 
-!["BernardoCerqueira" GitHub stats](https://github-readme-stats.vercel.app/api?username="nome"&show_icons=true&theme=highcontrast)
+<!-- ![Bernardo Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoCerqueira&show_icons=true&theme=highcontrast) -->
 
 - 📫 How to reach me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cerqueira07/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/BernardoCerqueira#9039)
 
-- 🌎 Languages: English/Portuguese/Italian
+- 🌎 Languages: Portuguese/English/Italian
 
 - 😄 Pronouns: he/him
 
@@ -21,6 +21,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
+
 <!--
 **BernardoCerqueira/BernardoCerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

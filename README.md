@@ -1,4 +1,4 @@
-### Hello, World! 🖖
+# Hello, World! 🖖
 
 <!-- ![Bernardo Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoCerqueira&show_icons=true&theme=highcontrast) -->
 

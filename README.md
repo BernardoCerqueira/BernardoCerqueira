@@ -1,5 +1,7 @@
 ### Hello, World! 🖖
 
+!["BernardoCerqueira" GitHub stats](https://github-readme-stats.vercel.app/api?username="nome"&show_icons=true&theme=highcontrast)
+
 - 📫 How to reach me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cerqueira07/)

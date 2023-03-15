@@ -24,7 +24,7 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-![snake gif](https://github.com/BernardoCerqueira/BernardoCerqueira/blob/output/github-contribution-grid-snake.svg)
+<!--[snake gif](https://github.com/BernardoCerqueira/BernardoCerqueira/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--
 **BernardoCerqueira/BernardoCerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

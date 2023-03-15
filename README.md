@@ -2,6 +2,8 @@
 
 <!-- ![Bernardo Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoCerqueira&show_icons=true&theme=highcontrast) -->
 
+- 💻 I study: Computer Engineering
+
 - 📫 How to reach me:
 
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cerqueira07/)

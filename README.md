@@ -1,17 +1,20 @@
 # Hello, World! 🖖
 
 <!-- ![Bernardo Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoCerqueira&show_icons=true&theme=highcontrast) -->
+My name is Bernardo, and I am a full-stack web developer from Petrópolis, Rio de Janeiro. I thoroughly enjoy programming and all the challenges it involves. I am passionate about creating awesome websites and applications that solve real-world problems while looking beautiful!
 
 - 💻 I study: Computer Engineering
 
-- 📫 How to reach me:
-
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cerqueira07/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/BernardoCerqueira#9039)
-
 - 🌎 Languages: Portuguese/English/Italian
 
+- 📫 How to reach me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cerqueira07/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/BernardoCerqueira#9039)
+
 - 😄 Pronouns: he/him
+
+# Tech Stack
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />

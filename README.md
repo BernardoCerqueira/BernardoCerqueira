@@ -3,7 +3,7 @@
 <!-- ![Bernardo Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoCerqueira&show_icons=true&theme=highcontrast) -->
 My name is Bernardo, and I am a full-stack web developer from Petrópolis, Rio de Janeiro. I thoroughly enjoy programming and all the challenges it involves. I am passionate about creating awesome websites and applications that solve real-world problems while looking beautiful!
 
-- 💻 I study: Information and Communication Technology
+- 💻 Information and Communication Technology - FAETERJ - Petrópolis
 
 - 🌎 Languages: Portuguese/English/Italian
 
